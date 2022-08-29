@@ -9,3 +9,6 @@ The following is a list of tutorials with a brief explanation. These tutorials w
 
 ### Object Detection
 With this tutorial, we will connect a camera to the Raspberry Pi and use it to take images. These images will be uploaded to Amazon AWS, where the objects in the image will be labeled. You can find it [here](https://github.com/glcaptain00/Pete-Kit/tree/main/Object%20Detection)
+
+### Camera
+With this tutorial, you will turn the Pete-Kit into a camera! Press a button and it will save a picture! Find this tutorial [here](https://github.com/glcaptain00/Pete-Kit/tree/main/Camera)
