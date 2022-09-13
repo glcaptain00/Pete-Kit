@@ -8,6 +8,7 @@ All code can be found in the file ["main.py"](https://github.com/glcaptain00/Pet
 ## Note: Installing necessary libraries
 
 To install the necessary libraries, run the following commands in the Terminal on the Raspberry Pi:
+
 *pip3 install opencv-python*
 
 *sudo apt-get install RPI.GPIO*
