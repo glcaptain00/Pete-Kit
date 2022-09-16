@@ -3,6 +3,7 @@ The repository for all Pete-Kit tutorials and sample code.
 
 ## Setting up your Pete-Kit
 For a quick start guide, check out this [tutorial](https://github.com/glcaptain00/Pete-Kit/blob/main/Quick%20Start%20Guide.pdf)
+
 To get started developing the Pete-Kit, check out this [tutorial](https://github.com/glcaptain00/Pete-Kit/blob/main/Raspberry%20Pi%204%20Setup.pdf)
 
 ## Tutorials (Work in Progress)
