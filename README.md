@@ -11,3 +11,6 @@ The following is a list of tutorials with a brief explanation. These tutorials w
 
 ### Camera
 With this tutorial, you will turn the Pete-Kit into a camera! Press a button and it will save a picture! Find this tutorial [here](https://github.com/glcaptain00/Pete-Kit/tree/main/Camera)
+
+### Temperature Monitor
+With this tutorial, you will learn to have your Pete-Kit take measurements and record those measurements in AWS. You will also setup AWS to send you alerts for certain ranges. Find that tutorial [here](https://github.com/glcaptain00/Pete-Kit)
