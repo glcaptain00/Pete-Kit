@@ -1,5 +1,6 @@
 import smbus2 as smbus #import smbus2, but name it smbus instead
 from ADCPi import ADCPi #import the ADCPi class from the ADCPi library
+from time import sleep
 
 #Set up the configurable values at the top!
 #We do this here so that you can easily adjust
@@ -53,5 +54,6 @@ while True:
 	temp = temp / 0xfffff
 
 	print(f"Humidity: {humi * 100}%\nTemperature: {temp * 200-50}\nLight: {adcData}")
+	sleep(1)
 
 
